@@ -1,6 +1,6 @@
 # Inside Face Filters: Vision, Segmentation, and Shaders in Action
 
-**[🎥 View Talk at Mobius 2025 Autumn](https://mobiusconf.com/en/talks/feab09f6d9d0402782c1cef15df27147/)**
+**[🎥 Watch the Talk on YouTube (Mobius 2025 Autumn)](https://youtu.be/8z1VFzqKdTY)**
 
 Usually, an iOS developer implements UI and works with APIs, but what lies beyond such tasks?
 
